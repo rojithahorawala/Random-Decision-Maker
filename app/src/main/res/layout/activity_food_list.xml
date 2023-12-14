@@ -1,0 +1,106 @@
+<FrameLayout xmlns:map="http://schemas.android.com/apk/res-auto"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_height="match_parent"
+             android:layout_width="match_parent"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <fragment
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".FoodList"/>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="fill_parent">
+        <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="bottom|left">
+            <Button
+                    android:id="@+id/B_mexican"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:background="@drawable/roundedbuttonmap"
+                    android:text="Mexican" />
+            />
+            <Button
+                    android:id="@+id/B_burger"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:background="@drawable/roundedbuttonmap"
+                    android:text="Burger" />
+            />
+            <Button
+                    android:id="@+id/B_sushi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:background="@drawable/roundedbuttonmap"
+                    android:text="Sushi" />
+            />
+            <Button
+                    android:id="@+id/B_ramen"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:background="@drawable/roundedbuttonmap"
+                    android:text="Ramen" />
+            />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="bottom|center">
+            <Button
+                    android:id="@+id/B_indian"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:background="@drawable/roundedbuttonmap"
+                    android:text="Indian" />
+            />
+            <Button
+                    android:id="@+id/B_persian"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:background="@drawable/roundedbuttonmap"
+                    android:text="Persian" />
+            />
+            <Button
+                    android:id="@+id/B_chinese"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:background="@drawable/roundedbuttonmap"
+                    android:text="Chinese" />
+            />
+            <Button
+                    android:id="@+id/B_italian"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:background="@drawable/roundedbuttonmap"
+                    android:text="Italian" />
+            />
+
+        </LinearLayout>
+        <Button
+                android:id="@+id/B_randomize"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onClick"
+                android:background="@drawable/roundedbuttonmap"
+                android:text="Randomize"/>
+        />
+    </LinearLayout>
+
+</FrameLayout>

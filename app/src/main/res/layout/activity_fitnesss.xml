@@ -1,0 +1,90 @@
+<FrameLayout xmlns:map="http://schemas.android.com/apk/res-auto"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_height="match_parent"
+             android:layout_width="match_parent"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <fragment
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".Fitnesss"/>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="fill_parent">
+        <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="bottom|left">
+            <Button
+                    android:id="@+id/B_aerobic"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:background="@drawable/roundedbuttonmap"
+                    android:text="Aerobic" />
+            />
+            <Button
+                    android:id="@+id/B_gym"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:background="@drawable/roundedbuttonmap"
+                    android:text="Gym" />
+            />
+            <Button
+                    android:id="@+id/B_swimming"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:background="@drawable/roundedbuttonmap"
+                    android:text="Swimming" />
+            />
+            <Button
+                    android:id="@+id/B_tennis"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:background="@drawable/roundedbuttonmap"
+                    android:text="Tennis" />
+            />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="bottom|center">
+            <Button
+                    android:id="@+id/B_pingpong"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:background="@drawable/roundedbuttonmap"
+                    android:text="Ping Pong" />
+            />
+            <Button
+                    android:id="@+id/B_basketball"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick"
+                    android:background="@drawable/roundedbuttonmap"
+                    android:text="Basketball" />
+            />
+
+        </LinearLayout>
+        <Button
+                android:id="@+id/B_randomize"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onClick"
+                android:background="@drawable/roundedbuttonmap"
+                android:text="Randomize"/>
+        />
+    </LinearLayout>
+
+</FrameLayout>

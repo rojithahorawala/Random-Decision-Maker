@@ -1,0 +1,7 @@
+<root>
+    <item name='com.google.android.gms.maps.SupportMapFragment void getMapAsync(com.google.android.gms.maps.OnMapReadyCallback)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>

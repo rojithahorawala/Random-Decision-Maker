@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hsing/AndroidStudioProjects/RDMapp/app/src/main/res/layout/activity_dashboard.xml" value="0.378125" />
+        <entry key="..\:/Users/hsing/AndroidStudioProjects/RDMapp/app/src/main/res/layout/activity_drawer_base.xml" value="0.378125" />
+        <entry key="..\:/Users/hsing/AndroidStudioProjects/RDMapp/app/src/main/res/layout/activity_home.xml" value="0.378125" />
+        <entry key="..\:/Users/hsing/AndroidStudioProjects/RDMapp/app/src/main/res/layout/activity_list.xml" value="0.378125" />
+        <entry key="..\:/Users/hsing/AndroidStudioProjects/RDMapp/app/src/main/res/layout/activity_main.xml" value="0.2368659420289855" />
+        <entry key="..\:/Users/hsing/AndroidStudioProjects/RDMapp/app/src/main/res/layout/activity_maps.xml" value="0.378125" />
+        <entry key="..\:/Users/hsing/AndroidStudioProjects/RDMapp/app/src/main/res/layout/content_layout.xml" value="0.378125" />
+        <entry key="..\:/Users/hsing/AndroidStudioProjects/RDMapp/app/src/main/res/layout/nav_header.xml" value="0.2368659420289855" />
+        <entry key="..\:/Users/hsing/AndroidStudioProjects/RDMapp/app/src/main/res/menu/drawer_menu.xml" value="0.378125" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/drawable/button_custom.xml" value="0.2285" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/drawable/ic_home.xml" value="0.1985" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/layout/activity_dashboard.xml" value="0.1160081053698075" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/layout/activity_drawer_base.xml" value="0.1160081053698075" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/layout/activity_entertainment.xml" value="0.1160081053698075" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/layout/activity_fitnesss.xml" value="0.1160081053698075" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/layout/activity_food_list.xml" value="0.1160081053698075" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/layout/activity_home.xml" value="0.1160081053698075" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/layout/activity_list.xml" value="0.190625" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/layout/activity_main.xml" value="0.190625" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/layout/activity_maps.xml" value="0.190625" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/layout/activity_ratings.xml" value="0.190625" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/layout/activity_settings.xml" value="0.1160081053698075" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/layout/activity_sign_up.xml" value="0.190625" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/layout/activity_spots.xml" value="0.190625" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/layout/content_layout.xml" value="0.190625" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/layout/fragment_maps.xml" value="0.190625" />
+        <entry key="..\:/Users/jjrox/Desktop/Senior Project/RDMapp masterbranch/app/src/main/res/layout/nav_header.xml" value="0.190625" />
+        <entry key="..\:/Users/jjrox/floobits/share/dcaporal/Comp490/app/src/main/res/layout/activity_entertainment.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/jjrox/floobits/share/dcaporal/Comp490/app/src/main/res/layout/activity_food_list.xml" value="0.10280797101449275" />
+        <entry key="..\:/Users/jjrox/floobits/share/dcaporal/Comp490/app/src/main/res/menu/drawer_menu.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/jjrox/floobits/share/dcaporal/Comp490/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1365" />
+        <entry key="app/src/main/res/drawable/roundedbutton.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/drawable/roundedbuttonMap.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/drawable/roundedbuttonmap.xml" value="0.18541666666666667" />
+        <entry key="app/src/main/res/layout/activity_entertainment.xml" value="0.14479166666666668" />
+        <entry key="app/src/main/res/layout/activity_fitnesss.xml" value="0.16510416666666666" />
+        <entry key="app/src/main/res/layout/activity_food_list.xml" value="0.11920529801324503" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.1515625" />
+        <entry key="app/src/main/res/layout/activity_list.xml" value="0.13958333333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.15364583333333334" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.25407608695652173" />
+        <entry key="app/src/main/res/layout/activity_newDec.xml" value="0.15364583333333334" />
+        <entry key="app/src/main/res/layout/activity_new_dec.xml" value="0.22509057971014493" />
+        <entry key="app/src/main/res/layout/activity_new_decision.xml" value="0.11842105263157894" />
+        <entry key="app/src/main/res/layout/activity_new_list.xml" value="0.15364583333333334" />
+        <entry key="app/src/main/res/layout/activity_newdec.xml" value="0.16510416666666666" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_sightseeing.xml" value="0.13958333333333334" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.234375" />
+        <entry key="app/src/main/res/layout/activity_spots.xml" value="0.15364583333333334" />
+        <entry key="app/src/main/res/layout/content_layout.xml" value="0.25407608695652173" />
+        <entry key="app/src/main/res/layout/fragment_maps.xml" value="0.25407608695652173" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android API 31 Platform" project-jdk-type="Android SDK" />
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22509057971014493" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

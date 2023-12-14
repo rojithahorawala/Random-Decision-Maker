@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.comp490">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+
+    <application
+            android:allowBackup="true"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/app_name"
+            android:roundIcon="@mipmap/ic_launcher_round"
+            android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
+            android:theme="@style/Theme.Comp490">
+        <activity
+                android:name=".Fitnesss"
+                android:exported="true"/>
+        <activity
+                android:name=".SignUp"
+                android:exported="true"/>
+        <activity
+                android:name=".NewDec"
+                android:exported="true"/>
+        <activity
+                android:name=".Spots"
+                android:exported="false"/>
+        <activity
+                android:name=".DrawerBase"
+                android:exported="false"/>
+        <activity
+                android:name=".Dashboard"
+                android:exported="false"/>
+
+        <meta-data
+                android:name="com.google.android.geo.API_KEY"
+                android:value="AIzaSyBTwxeWITjO0frDPsPUEEb7671cI2MCT4U"/>
+
+        <activity
+                android:name=".Entertainment"
+                android:exported="false"/>
+        <activity
+                android:name=".FoodList"
+                android:exported="false"/>
+        <activity
+                android:name=".List"
+                android:exported="false"/>
+        <activity
+                android:name=".Ratings"
+                android:exported="false"/>
+        <activity
+                android:name=".settings"
+                android:exported="false"/>
+        <activity
+                android:name=".Home"
+                android:exported="true"/>
+        <activity
+                android:name=".MainActivity"
+                android:label="@string/app_name"
+                android:theme="@style/Theme.Comp490.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
